@@ -1,7 +1,6 @@
 package Latihan_2;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Drivers {
     public static void main(String[] args) {
